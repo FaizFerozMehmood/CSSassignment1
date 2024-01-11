@@ -1,0 +1,40 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+
+}
+#heading1{
+    background-color: rgb(37, 37, 163);
+    color: azure;
+}
+#p1{
+    color: brown;
+}
+#p2{
+    background-color: rgba(89, 22, 22, 0.536);
+    color: azure;
+}
+#p3{
+    background-color: rgb(210, 36, 210);
+    color:rgb(122, 178, 122);
+}
+#container{
+    margin-top: 30px;
+    background-color: gray
+    
+}
+#heading2{
+    
+    background-color: rgb(178, 149, 154);
+    color:rgb(164, 46, 46)
+    
+}
+#p4{
+    background-color:aliceblue;
+    color: rgb(152, 152, 5)
+}
+#d1{
+    
+}
+
